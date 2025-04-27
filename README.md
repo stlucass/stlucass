@@ -64,6 +64,14 @@ Sou Lucas Santos, apaixonado por tecnologia e inovação, com foco em **Análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
+  <img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
   <br>
 </div>
 
