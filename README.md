@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Lucas Castro
+# 👨🏻‍💻 Lucas Santos
 
 **`Desenvolvedor e Estudante de Tecnologia`**
 
