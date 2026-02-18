@@ -79,7 +79,10 @@ Sou Lucas Santos, apaixonado por tecnologia e inovação, com foco em **Análise
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasCastro&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/?username=stlucass&show_icons=true&theme=dark&hide=stars"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stlucass&layout=compact&theme=dark"/>
+</p>
 
 ---
 
