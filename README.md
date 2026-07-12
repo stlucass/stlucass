@@ -1,92 +1,42 @@
-# 👨🏻‍💻 Lucas Santos
-
-**`Desenvolvedor e Estudante de Tecnologia`**
-
-Sou Lucas Santos, apaixonado por tecnologia e inovação, com foco em **Análise de Dados** e **Desenvolvimento de Software**. Atualmente, estou explorando as interações entre essas tecnologias e suas aplicações práticas. Busco aprender e compartilhar meu conhecimento com a comunidade.
+# lucas santos
+**desenvolvedor & estudante de tech**
 
 ---
 
-### 🧠 Áreas de Interesse
-
-- **Inteligência Artificial**: Desenvolvimento de soluções inteligentes e o uso de IA para resolver problemas complexos.
-- **Tecnologias Emergentes**: Exploração de novas tecnologias que moldam o futuro da computação e da tecnologia em geral.
+solução por código. focado em **análise de dados** e **desenvolvimento de software**. exploro a interseção entre essas tecnologias e suas aplicações reais. aqui eu compartilho o que aprendo.
 
 ---
 
-### ⚙️ Tecnologias que Estou Aprendendo
+### áreas
+- **Inteligência Artificial** — soluções inteligentes, IA pra problemas complexos
+- **Tecnologias Emergentes** — o que tá vindo aí no futuro da computação
 
-<div>
-  <img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="React"
-    title="React"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="PHP"
-    title="PHP"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="NodeJS"
-    title="NodeJS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-  />
-  <br>
+---
+
+### stack
+```
+python  •  javascript  •  typescript  •  react  •  nodejs  •  php  •  git
+```
+
+<div align="left">
+  <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="NodeJS" title="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="PHP" title="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
+### github
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/?username=stlucass&show_icons=true&theme=dark&hide=stars"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stlucass&layout=compact&theme=dark"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/?username=stlucass&show_icons=true&theme=dark&hide=stars&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stlucass&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
 </p>
 
 ---
 
-### 📬 Contato
-
-- **Email**: [lucascastrosantos20007@gmail.com](mailto:lucascastrosantos20007@gmail.com)
-- **LinkedIn**: [Lucas](https://www.linkedin.com/in/lucas-castro-39a427285/)
+### contato
+`lucascastrosantos20007@gmail.com` • [linkedin](https://www.linkedin.com/in/lucas-castro-39a427285/)
