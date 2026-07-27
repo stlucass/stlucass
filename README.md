@@ -9,7 +9,7 @@ solução por código. focado em **análise de dados** e **desenvolvimento de so
 
 ### áreas
 - **Inteligência Artificial** — soluções inteligentes, IA pra problemas complexos
-- **Tecnologias Emergentes** — o que tá vindo aí no futuro da computação
+- **Tecnologias Emergentes** — o que está vindo no futuro da computação
 
 ---
 
